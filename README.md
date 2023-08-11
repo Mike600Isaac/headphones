@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaac Micheal</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate FullSstack Website developer from Nigeria</h3>
 
 
 - 🔭 I’m currently working on my **ALX intro to SE course**
