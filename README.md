@@ -16,7 +16,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 - you are not to use Javascript
 
 <h3 align="left">Let's connect:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/zubair-richard" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="html5" width="50" height="50"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/micheal-isaac-37a539264" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="html5" width="50" height="50"/> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
