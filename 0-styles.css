@@ -1,0 +1,98 @@
+ *
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ 
+ body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(./images/headphones_hero_1.jpg);
+  background-size: cover;
+  color: white;
+ }
+ 
+
+ .header-container 
+ {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ }
+
+ .navbar-items
+ {
+  display: flex;
+  justify-content: space-around;
+  gap: 2rem;
+ }
+
+ a
+ {
+  text-decoration: none;
+  color: white;
+  font-size: larger;
+ }
+
+ ul li a:hover
+ {
+  color: #FF6565;
+  transition: 0.3s;
+ }
+
+
+ ul li
+ {
+  list-style-type: none;
+ }
+
+ .content
+ {
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 280px;
+ }
+
+ .content p, .content h3, .header-button
+ {
+  max-width: 800px;
+ }
+
+ .header-button
+ {
+  margin: 30px 0 45px 0;
+ }
+ button
+ {
+  padding: 20px;
+  background-color: #FF6565;
+  color: white;
+  border-radius: 26px;
+  border: none;
+ }
+
+ .handburger
+ {
+  display: none;
+ }
+
+ @media screen and (max-width: 800px) {
+  .navbar-items
+  {
+    display: none;
+  }
+  .handburger
+  {
+    display: flex;
+  }
+  .header-container
+  {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+ }
